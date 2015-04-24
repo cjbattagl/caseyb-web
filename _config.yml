@@ -1,0 +1,29 @@
+name: Casey J Battaglino
+url: http://cc.gatech.edu/~cbattagl
+description: PhD Student -- Georgia Institute of Technology
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+highlighter: pygments
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: none
+  order: ascending
+
+  source: ./_bibliography
+  bibliography: references.bib
+  bibliography_template: "{{reference}}"
+
+  replace_strings: true
+  join_strings:    true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
