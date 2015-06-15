@@ -44,7 +44,11 @@ blockquote {
 	border-color: #eee8d5;
 }
 
-
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
 
 /*** Pygments ***/
 .highlight{
