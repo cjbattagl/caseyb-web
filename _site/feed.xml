@@ -3,8 +3,8 @@
 	<channel>
 		<title>Casey J Battaglino</title>
 		<description>PhD Student -- Georgia Institute of Technology</description>
-		<link>http://cc.gatech.edu/~cbattagl</link>
-		<atom:link href="http://cc.gatech.edu/~cbattagl/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://cc.gatech.edu/~cbattagl/</link>
+		<atom:link href="http://cc.gatech.edu/~cbattagl//feed.xml" rel="self" type="application/rss+xml" />
 		
 	</channel>
 </rss>

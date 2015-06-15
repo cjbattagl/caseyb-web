@@ -1,10 +1,12 @@
 name: Casey J Battaglino
-url: http://cc.gatech.edu/~cbattagl
+url: http://cc.gatech.edu/~cbattagl/
 description: PhD Student -- Georgia Institute of Technology
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
 highlighter: pygments
+
+baseurl: http://www.cc.gatech.edu/~cbattagl/
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
