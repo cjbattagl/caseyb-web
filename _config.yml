@@ -6,7 +6,7 @@ permalink: /:year/:month/:day/:title/
 paginate: 10
 highlighter: pygments
 
-baseurl: http://www.cc.gatech.edu/~cbattagl/
+baseurl: http://www.cc.gatech.edu/~cbattagl
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
