@@ -18,6 +18,8 @@ Scalable Tensor Computations
 --------------------------------------
 ![tensor](../images/tensor.png){: .center-image }
 
+* InTensLi: {% cite intensli -A %}.
+
 *(publications under submission)*
 
 Other Publications:

@@ -16,7 +16,7 @@ Classes Taken
 * Modeling & Simulation & Military Gaming - M Salomone
 * (TA): High Performance Computing - J Vetter
 * High Performance Computer Architecture - HS Kim 
-* [Seminar on Solvers - E Chow](a href="http://www.cc.gatech.edu/~echow/cse8001.html)
+* [Seminar on Solvers - E Chow](http://www.cc.gatech.edu/~echow/cse8001.html)
 * Modeling & Simulation - R Fujimoto / R Vuduc
 * [Iterative Methods: Systems of Equations - S Alben](http://people.math.gatech.edu/~alben/Math6644Spring2011/index.html)
 * High Performance Computing - G Biros
