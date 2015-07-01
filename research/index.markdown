@@ -12,19 +12,19 @@ Scalable Distributed Graph Computations
 --------------------------------------
 ![graph](../images/graph.png){: .center-image }
 
-*(publication under submission)*
+* Very fast, distributed-memory partitioning of power-law graphs: {% cite grasp -A %}.
 
 Scalable Tensor Computations
 --------------------------------------
 ![tensor](../images/tensor.png){: .center-image }
 
-* InTensLi: {% cite intensli -A %}.
+* In-place optimization of Dense Tensor-Matrix Multiply (InTensLi): {% cite intensli -A %}.
 
-*(publications under submission)*
+*(publication under submission)*
 
 Other Publications:
 -------------------
-* Balance paper: {% cite balance -A %}.
+* Balance Principles at HotPar: {% cite balance -A %}.
 * FFT paper: {% cite fft -A %}.
 
 References
