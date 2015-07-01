@@ -13,7 +13,7 @@ Scalable Distributed Graph Computations
 ![graph](../images/graph.png){: .center-image }
 
 * Very fast, distributed-memory partitioning of power-law graphs: 
-{% cite grasp -A %}.
+{% cite grasp -A %}. (GitHub pending).
 
 Scalable Tensor Computations
 --------------------------------------
@@ -21,8 +21,6 @@ Scalable Tensor Computations
 
 * In-place optimization of Dense Tensor-Matrix Multiply (InTensLi):
 {% cite intensli -A %}.
-
-*(publication under submission)*
 
 Other Publications:
 -------------------
