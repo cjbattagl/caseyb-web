@@ -26,6 +26,7 @@ Other Publications:
 -------------------
 * Balance Principles at HotPar: {% cite balance -A %}.
 * FFT paper: {% cite fft -A %}.
+* GPUOctave (Poster): {% cite gpuoctave -A%}.
 
 References
 ----------
