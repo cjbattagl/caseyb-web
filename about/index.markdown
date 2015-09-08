@@ -9,6 +9,8 @@ View a quick [synopsis](../research) of my research.
 
 Classes Taken
 -------------
+* [(Audit): Sampling Algorithms - R Peng](http://www.cc.gatech.edu/~rpeng/8803SA/)
+* [Quantum Information and Quantum Computing - J Bellissard](http://people.math.gatech.edu/~jeanbel/4782/4782Fall15.html)
 * [Computational Sustainability - B Dilikina](http://www.cc.gatech.edu/~bdilkina/CSE8803-2014sp/index.htm)
 * [Alternative Computing Technologies - H Esmaeilzadeh](http://www.cc.gatech.edu/~hadi/teaching/act/01-2014sp/index.html)
 * [Network Science - C Dovrolis](http://www.cc.gatech.edu/~dovrolis/Courses/NetSci)
